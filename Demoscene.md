@@ -194,9 +194,9 @@ pc demo ~ size of c64 floppy disk side
 Follow us on:
 
 <div id="social">
-  <a id="sm-decrunch" href="http://decrunch.org"><img                                   src="assets/Decrunch.png" alt="Decrunch.org"></a>
-  <a id="sm-soundcloud" href="http://soundcloud.com/decrunch"><img                                   src="assets/social/soundcloud.svg" alt="Soundcloud"></a>
-  <a id="sm-facebook"   href="http://fb.me/decrunch.org"><img                                          src="assets/social/facebook.svg" alt="Twitter"></a>
-  <a id="sm-twitter"    href="http://twitter.com/decrunch"><img                                src="assets/social/twitter.svg" alt="Twitter"></a>
-  <a id="sm-youtube"    href="https://www.youtube.com/channel/UCdA5iUF5Bl-VkIjA7mjf7SA"><img              src="assets/social/youtube.svg" alt="Youtube"></a>
+ <a id="sm-decrunch" href="http://decrunch.org"><img src="assets/Decrunch.png" alt="Decrunch.org"></a>
+ <a id="sm-soundcloud" href="http://soundcloud.com/decrunch"><img src="assets/social/soundcloud.svg" alt="Soundcloud"></a>
+ <a id="sm-facebook" href="http://fb.me/decrunch.org"><img src="assets/social/facebook.svg" alt="Twitter"></a>
+ <a id="sm-twitter" href="http://twitter.com/decrunch"><img src="assets/social/twitter.svg" alt="Twitter"></a>
+ <a id="sm-youtube" href="https://www.youtube.com/channel/UCdA5iUF5Bl-VkIjA7mjf7SA"><img src="assets/social/youtube.svg" alt="Youtube"></a>
 </div>
